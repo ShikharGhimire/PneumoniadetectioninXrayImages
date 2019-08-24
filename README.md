@@ -1,5 +1,5 @@
 # PneumoniadetectioninXrayImages
-Detecting whether patients has pneumonia or not using X-ray images with the help of Convolutional Neural Networks. 
+Detecting whether the patient has pneumonia or not using X-ray images with the help of Convolutional Neural Networks. 
 
 Predicting single image X-ray is also included in the code section.
 
