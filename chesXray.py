@@ -1,7 +1,6 @@
 #Convolutional neural network
-#To predict whether its dog or not in the pictures
 
-#Data preprocessing is alrdeady done since we manually seperated images into multiple folder. 
+#Data preprocessing is already done since we manually seperated images into multiple folder. 
 #We have to feature scale it though
 
 #Importing the libraries and packages
